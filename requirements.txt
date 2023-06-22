@@ -3,3 +3,6 @@ torchvision
 streamlit
 easyocr
 matplotlib
+cv2
+numpy
+pandas
